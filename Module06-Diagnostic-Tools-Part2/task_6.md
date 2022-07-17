@@ -1,0 +1,35 @@
+# Refs:
+* Counters
+  * https://github.com/dotnet/diagnostics/blob/main/documentation/design-docs/eventcounters.md
+  * https://docs.microsoft.com/en-us/dotnet/core/diagnostics/available-counters
+  * https://github.com/dotnet/runtime/blob/main/src/libraries/System.Diagnostics.Tracing/documentation/EventCounterTutorial.md
+  * https://github.com/dotnet/diagnostics/blob/main/documentation/dotnet-trace-instructions.md#using-dotnet-trace-to-collect-counter-values-over-time
+* Dumps
+  * https://kevingosse.medium.com/analyze-your-memory-dumps-in-c-with-dynamd-8e4b110b9d3a
+  * https://devblogs.microsoft.com/visualstudio/managed-memory-dump-analyzers/
+  * https://docs.microsoft.com/en-us/dotnet/core/diagnostics/debug-linux-dumps
+  * https://www.poppastring.com/blog/collecting-managed-crash-dumps-on-app-services-for-linux
+  * https://devblogs.microsoft.com/dotnet/gc-perf-infrastructure-part-1/
+  * https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/xplat-minidump-generation.md
+  * https://github.com/dotnet/diagnostics/blob/main/documentation/dotnet-dump-instructions.md
+  * https://www.tessferrandez.com/blog/2021/03/18/debugging-a-netcore-memory-issue-with-dotnet-dump.html
+  * https://www.tessferrandez.com/blog/2008/02/04/debugging-demos-setup-instructions.html
+* Profiles and application performance monitoring
+  * https://github.com/dotnet/crank
+    * https://github.com/dotnet/crank/blob/main/docs/README.md
+    * https://docs.microsoft.com/en-us/events/dotnetconf-2021/benchmarking-aspnet-applications-with-net-crank
+    * https://developpaper.com/usage-of-net-performance-testing-framework-crank/
+    * https://docs.microsoft.com/en-us/aspnet/signalr/overview/performance/signalr-connection-density-testing-with-crank
+  * https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/profiling.md
+  * https://chnasarre.medium.com/start-a-journey-into-the-net-profiling-apis-40c76e2e36cc
+  * https://chnasarre.medium.com/dealing-with-modules-assemblies-and-types-with-clr-profiling-apis-a7522a5abaa9
+  * https://blog.elmah.io/debugging-system-outofmemoryexception-using-net-tools/
+* Cloud and containers
+  * https://github.com/dotnet/diagnostics/blob/main/documentation/design-docs/ipc-protocol.md
+  * https://github.com/dotnet/runtime/blob/main/docs/project/linux-performance-tracing.md
+  * https://docs.microsoft.com/en-us/dotnet/core/diagnostics/diagnostics-in-containers#using-net-core-cli-tools-in-a-container
+  * https://github.com/dotnet/dotnet-docker
+  * https://devblogs.microsoft.com/dotnet/introducing-dotnet-monitor/
+  * https://docs.microsoft.com/en-us/dotnet/core/diagnostics/trace-perfcollect-lttng
+  * https://devblogs.microsoft.com/dotnet/running-with-server-gc-in-a-small-container-scenario-part-0/
+  * https://devblogs.microsoft.com/dotnet/running-with-server-gc-in-a-small-container-scenario-part-1-hard-limit-for-the-gc-heap/
