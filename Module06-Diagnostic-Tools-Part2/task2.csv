@@ -1,0 +1,2738 @@
+Timestamp,Provider,Counter Name,Counter Type,Mean/Increment
+07/20/2022 13:47:13,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:47:15,System.Runtime,Working Set (MB),Metric,76
+07/20/2022 13:47:15,System.Runtime,GC Heap Size (MB),Metric,9
+07/20/2022 13:47:15,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:15,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:15,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:15,System.Runtime,ThreadPool Thread Count,Metric,6
+07/20/2022 13:47:15,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:15,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:15,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,8
+07/20/2022 13:47:15,System.Runtime,Allocation Rate (B / 1 sec),Rate,81336
+07/20/2022 13:47:15,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:15,System.Runtime,GC Fragmentation (%),Metric,NaN
+07/20/2022 13:47:15,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:15,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:15,System.Runtime,Gen 0 Size (B),Metric,0
+07/20/2022 13:47:15,System.Runtime,Gen 1 Size (B),Metric,0
+07/20/2022 13:47:15,System.Runtime,Gen 2 Size (B),Metric,0
+07/20/2022 13:47:15,System.Runtime,LOH Size (B),Metric,0
+07/20/2022 13:47:15,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,0
+07/20/2022 13:47:15,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:15,System.Runtime,IL Bytes Jitted (B),Metric,301283
+07/20/2022 13:47:15,System.Runtime,Number of Methods Jitted,Metric,3378
+07/20/2022 13:47:15,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:47:16,System.Runtime,Working Set (MB),Metric,76
+07/20/2022 13:47:16,System.Runtime,GC Heap Size (MB),Metric,9
+07/20/2022 13:47:16,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:16,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:16,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:16,System.Runtime,ThreadPool Thread Count,Metric,6
+07/20/2022 13:47:16,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:16,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:16,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,8
+07/20/2022 13:47:16,System.Runtime,Allocation Rate (B / 1 sec),Rate,32672
+07/20/2022 13:47:16,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:16,System.Runtime,GC Fragmentation (%),Metric,NaN
+07/20/2022 13:47:16,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:16,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:16,System.Runtime,Gen 0 Size (B),Metric,0
+07/20/2022 13:47:16,System.Runtime,Gen 1 Size (B),Metric,0
+07/20/2022 13:47:16,System.Runtime,Gen 2 Size (B),Metric,0
+07/20/2022 13:47:16,System.Runtime,LOH Size (B),Metric,0
+07/20/2022 13:47:16,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,0
+07/20/2022 13:47:16,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:16,System.Runtime,IL Bytes Jitted (B),Metric,302749
+07/20/2022 13:47:16,System.Runtime,Number of Methods Jitted,Metric,3388
+07/20/2022 13:47:16,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:47:17,System.Runtime,Working Set (MB),Metric,76
+07/20/2022 13:47:17,System.Runtime,GC Heap Size (MB),Metric,9
+07/20/2022 13:47:17,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,ThreadPool Thread Count,Metric,6
+07/20/2022 13:47:17,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:17,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,7
+07/20/2022 13:47:17,System.Runtime,Allocation Rate (B / 1 sec),Rate,32672
+07/20/2022 13:47:17,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:17,System.Runtime,GC Fragmentation (%),Metric,NaN
+07/20/2022 13:47:17,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 0 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 1 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 2 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,LOH Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:17,System.Runtime,IL Bytes Jitted (B),Metric,303851
+07/20/2022 13:47:17,System.Runtime,Number of Methods Jitted,Metric,3405
+07/20/2022 13:47:17,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:47:17,System.Runtime,Working Set (MB),Metric,76
+07/20/2022 13:47:17,System.Runtime,GC Heap Size (MB),Metric,9
+07/20/2022 13:47:17,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,ThreadPool Thread Count,Metric,6
+07/20/2022 13:47:17,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:17,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,7
+07/20/2022 13:47:17,System.Runtime,Allocation Rate (B / 1 sec),Rate,28480
+07/20/2022 13:47:17,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:17,System.Runtime,GC Fragmentation (%),Metric,NaN
+07/20/2022 13:47:17,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 0 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 1 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 2 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,LOH Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:17,System.Runtime,IL Bytes Jitted (B),Metric,306424
+07/20/2022 13:47:17,System.Runtime,Number of Methods Jitted,Metric,3441
+07/20/2022 13:47:17,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:17,System.Runtime,Working Set (MB),Metric,76
+07/20/2022 13:47:17,System.Runtime,GC Heap Size (MB),Metric,9
+07/20/2022 13:47:17,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,ThreadPool Thread Count,Metric,6
+07/20/2022 13:47:17,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,ThreadPool Queue Length,Metric,1
+07/20/2022 13:47:17,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:47:17,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:17,System.Runtime,GC Fragmentation (%),Metric,NaN
+07/20/2022 13:47:17,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:17,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 0 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 1 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Gen 2 Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,LOH Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,0
+07/20/2022 13:47:17,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:17,System.Runtime,IL Bytes Jitted (B),Metric,306424
+07/20/2022 13:47:17,System.Runtime,Number of Methods Jitted,Metric,3441
+07/20/2022 13:47:17,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:47:18,System.Runtime,Working Set (MB),Metric,76
+07/20/2022 13:47:18,System.Runtime,GC Heap Size (MB),Metric,9
+07/20/2022 13:47:18,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,ThreadPool Thread Count,Metric,6
+07/20/2022 13:47:18,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:18,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,7
+07/20/2022 13:47:18,System.Runtime,Allocation Rate (B / 1 sec),Rate,32672
+07/20/2022 13:47:18,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:18,System.Runtime,GC Fragmentation (%),Metric,NaN
+07/20/2022 13:47:18,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:18,System.Runtime,Gen 0 Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,Gen 1 Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,Gen 2 Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,LOH Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:18,System.Runtime,IL Bytes Jitted (B),Metric,306516
+07/20/2022 13:47:18,System.Runtime,Number of Methods Jitted,Metric,3442
+07/20/2022 13:47:18,System.Runtime,CPU Usage (%),Metric,3
+07/20/2022 13:47:18,System.Runtime,Working Set (MB),Metric,76
+07/20/2022 13:47:18,System.Runtime,GC Heap Size (MB),Metric,9
+07/20/2022 13:47:18,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,ThreadPool Thread Count,Metric,6
+07/20/2022 13:47:18,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:18,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,Allocation Rate (B / 1 sec),Rate,36208
+07/20/2022 13:47:18,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:18,System.Runtime,GC Fragmentation (%),Metric,NaN
+07/20/2022 13:47:18,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:18,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:18,System.Runtime,Gen 0 Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,Gen 1 Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,Gen 2 Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,LOH Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,0
+07/20/2022 13:47:18,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:18,System.Runtime,IL Bytes Jitted (B),Metric,306768
+07/20/2022 13:47:18,System.Runtime,Number of Methods Jitted,Metric,3443
+07/20/2022 13:47:18,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:19,System.Runtime,Working Set (MB),Metric,83
+07/20/2022 13:47:19,System.Runtime,GC Heap Size (MB),Metric,2
+07/20/2022 13:47:19,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:19,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:19,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:19,System.Runtime,ThreadPool Thread Count,Metric,6
+07/20/2022 13:47:19,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:19,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:19,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,7
+07/20/2022 13:47:19,System.Runtime,Allocation Rate (B / 1 sec),Rate,0
+07/20/2022 13:47:19,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:19,System.Runtime,GC Fragmentation (%),Metric,18.2386164730856
+07/20/2022 13:47:19,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:19,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:19,System.Runtime,Gen 0 Size (B),Metric,654744
+07/20/2022 13:47:19,System.Runtime,Gen 1 Size (B),Metric,2588856
+07/20/2022 13:47:19,System.Runtime,Gen 2 Size (B),Metric,384
+07/20/2022 13:47:19,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:19,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:19,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:19,System.Runtime,IL Bytes Jitted (B),Metric,309440
+07/20/2022 13:47:19,System.Runtime,Number of Methods Jitted,Metric,3470
+07/20/2022 13:47:20,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:47:21,System.Runtime,Working Set (MB),Metric,84
+07/20/2022 13:47:21,System.Runtime,GC Heap Size (MB),Metric,2
+07/20/2022 13:47:21,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:21,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:21,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:21,System.Runtime,ThreadPool Thread Count,Metric,7
+07/20/2022 13:47:21,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:21,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:21,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,8
+07/20/2022 13:47:21,System.Runtime,Allocation Rate (B / 1 sec),Rate,57248
+07/20/2022 13:47:21,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:21,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:21,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:21,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:21,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:21,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:21,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:21,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:21,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:21,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:21,System.Runtime,IL Bytes Jitted (B),Metric,310041
+07/20/2022 13:47:21,System.Runtime,Number of Methods Jitted,Metric,3472
+07/20/2022 13:47:21,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:47:22,System.Runtime,Working Set (MB),Metric,84
+07/20/2022 13:47:22,System.Runtime,GC Heap Size (MB),Metric,2
+07/20/2022 13:47:22,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:22,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:22,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:22,System.Runtime,ThreadPool Thread Count,Metric,7
+07/20/2022 13:47:22,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:22,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:22,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,6
+07/20/2022 13:47:22,System.Runtime,Allocation Rate (B / 1 sec),Rate,55056
+07/20/2022 13:47:22,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:22,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:22,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:22,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:22,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:22,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:22,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:22,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:22,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:22,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:22,System.Runtime,IL Bytes Jitted (B),Metric,310041
+07/20/2022 13:47:22,System.Runtime,Number of Methods Jitted,Metric,3472
+07/20/2022 13:47:22,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:47:23,System.Runtime,Working Set (MB),Metric,84
+07/20/2022 13:47:23,System.Runtime,GC Heap Size (MB),Metric,2
+07/20/2022 13:47:23,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:23,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:23,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:23,System.Runtime,ThreadPool Thread Count,Metric,7
+07/20/2022 13:47:23,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:23,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:23,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,6
+07/20/2022 13:47:23,System.Runtime,Allocation Rate (B / 1 sec),Rate,32672
+07/20/2022 13:47:23,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:23,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:23,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:23,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:23,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:23,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:23,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:23,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:23,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:23,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:23,System.Runtime,IL Bytes Jitted (B),Metric,310041
+07/20/2022 13:47:23,System.Runtime,Number of Methods Jitted,Metric,3472
+07/20/2022 13:47:23,System.Runtime,CPU Usage (%),Metric,3
+07/20/2022 13:47:24,System.Runtime,Working Set (MB),Metric,90
+07/20/2022 13:47:24,System.Runtime,GC Heap Size (MB),Metric,9
+07/20/2022 13:47:24,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:47:24,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,16
+07/20/2022 13:47:24,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:24,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1319
+07/20/2022 13:47:24,System.Runtime,Allocation Rate (B / 1 sec),Rate,6324640
+07/20/2022 13:47:24,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:24,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:24,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:24,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:24,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:24,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:24,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:24,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:24,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:24,System.Runtime,IL Bytes Jitted (B),Metric,352051
+07/20/2022 13:47:24,System.Runtime,Number of Methods Jitted,Metric,3967
+07/20/2022 13:47:24,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:24,System.Runtime,Working Set (MB),Metric,93
+07/20/2022 13:47:24,System.Runtime,GC Heap Size (MB),Metric,13
+07/20/2022 13:47:24,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:24,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:24,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1522
+07/20/2022 13:47:24,System.Runtime,Allocation Rate (B / 1 sec),Rate,4422016
+07/20/2022 13:47:24,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:24,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:24,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:24,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:24,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:24,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:24,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:24,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:24,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:24,System.Runtime,IL Bytes Jitted (B),Metric,352051
+07/20/2022 13:47:24,System.Runtime,Number of Methods Jitted,Metric,3967
+07/20/2022 13:47:24,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:24,System.Runtime,Working Set (MB),Metric,93
+07/20/2022 13:47:24,System.Runtime,GC Heap Size (MB),Metric,13
+07/20/2022 13:47:24,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:24,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:24,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:24,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:24,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:24,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:24,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:24,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:24,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:24,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:24,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:24,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:24,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:24,System.Runtime,IL Bytes Jitted (B),Metric,352051
+07/20/2022 13:47:24,System.Runtime,Number of Methods Jitted,Metric,3967
+07/20/2022 13:47:24,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:26,System.Runtime,Working Set (MB),Metric,96
+07/20/2022 13:47:26,System.Runtime,GC Heap Size (MB),Metric,17
+07/20/2022 13:47:26,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:26,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:26,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:26,System.Runtime,ThreadPool Thread Count,Metric,28
+07/20/2022 13:47:26,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:26,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:26,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1215
+07/20/2022 13:47:26,System.Runtime,Allocation Rate (B / 1 sec),Rate,4003432
+07/20/2022 13:47:26,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:26,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:26,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:26,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:26,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:26,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:26,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:26,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:26,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:26,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:26,System.Runtime,IL Bytes Jitted (B),Metric,352459
+07/20/2022 13:47:26,System.Runtime,Number of Methods Jitted,Metric,3971
+07/20/2022 13:47:26,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:27,System.Runtime,Working Set (MB),Metric,99
+07/20/2022 13:47:27,System.Runtime,GC Heap Size (MB),Metric,21
+07/20/2022 13:47:27,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:27,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:27,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:27,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:27,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:27,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:27,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1100
+07/20/2022 13:47:27,System.Runtime,Allocation Rate (B / 1 sec),Rate,3894984
+07/20/2022 13:47:27,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:27,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:27,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:27,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:27,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:27,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:27,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:27,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:27,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:27,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:27,System.Runtime,IL Bytes Jitted (B),Metric,352459
+07/20/2022 13:47:27,System.Runtime,Number of Methods Jitted,Metric,3971
+07/20/2022 13:47:27,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:28,System.Runtime,Working Set (MB),Metric,104
+07/20/2022 13:47:28,System.Runtime,GC Heap Size (MB),Metric,25
+07/20/2022 13:47:28,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,ThreadPool Thread Count,Metric,28
+07/20/2022 13:47:28,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:28,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1262
+07/20/2022 13:47:28,System.Runtime,Allocation Rate (B / 1 sec),Rate,4331880
+07/20/2022 13:47:28,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:28,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:28,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:28,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:28,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:28,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:28,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:28,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:28,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:28,System.Runtime,IL Bytes Jitted (B),Metric,352459
+07/20/2022 13:47:28,System.Runtime,Number of Methods Jitted,Metric,3971
+07/20/2022 13:47:28,System.Runtime,CPU Usage (%),Metric,5
+07/20/2022 13:47:28,System.Runtime,Working Set (MB),Metric,104
+07/20/2022 13:47:28,System.Runtime,GC Heap Size (MB),Metric,25
+07/20/2022 13:47:28,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,ThreadPool Thread Count,Metric,28
+07/20/2022 13:47:28,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:28,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:28,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:28,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:28,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:28,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:28,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:28,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:28,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:28,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:28,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:28,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:28,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:28,System.Runtime,IL Bytes Jitted (B),Metric,352618
+07/20/2022 13:47:28,System.Runtime,Number of Methods Jitted,Metric,3973
+07/20/2022 13:47:28,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:29,System.Runtime,Working Set (MB),Metric,108
+07/20/2022 13:47:29,System.Runtime,GC Heap Size (MB),Metric,30
+07/20/2022 13:47:29,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:29,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:29,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1253
+07/20/2022 13:47:29,System.Runtime,Allocation Rate (B / 1 sec),Rate,4376912
+07/20/2022 13:47:29,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:29,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:29,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:29,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:29,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:29,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:29,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:29,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:29,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:29,System.Runtime,IL Bytes Jitted (B),Metric,352618
+07/20/2022 13:47:29,System.Runtime,Number of Methods Jitted,Metric,3973
+07/20/2022 13:47:29,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:29,System.Runtime,Working Set (MB),Metric,112
+07/20/2022 13:47:29,System.Runtime,GC Heap Size (MB),Metric,34
+07/20/2022 13:47:29,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:29,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:29,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1070
+07/20/2022 13:47:29,System.Runtime,Allocation Rate (B / 1 sec),Rate,3938384
+07/20/2022 13:47:29,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:29,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:29,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:29,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:29,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:29,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:29,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:29,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:29,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:29,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:29,System.Runtime,IL Bytes Jitted (B),Metric,352618
+07/20/2022 13:47:29,System.Runtime,Number of Methods Jitted,Metric,3973
+07/20/2022 13:47:29,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:31,System.Runtime,Working Set (MB),Metric,116
+07/20/2022 13:47:31,System.Runtime,GC Heap Size (MB),Metric,38
+07/20/2022 13:47:31,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:31,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:31,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:31,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:31,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:31,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:31,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1133
+07/20/2022 13:47:31,System.Runtime,Allocation Rate (B / 1 sec),Rate,4371944
+07/20/2022 13:47:31,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:31,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:31,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:31,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:31,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:31,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:31,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:31,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:31,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:31,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:31,System.Runtime,IL Bytes Jitted (B),Metric,352618
+07/20/2022 13:47:31,System.Runtime,Number of Methods Jitted,Metric,3973
+07/20/2022 13:47:31,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:32,System.Runtime,Working Set (MB),Metric,120
+07/20/2022 13:47:32,System.Runtime,GC Heap Size (MB),Metric,42
+07/20/2022 13:47:32,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:32,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1019
+07/20/2022 13:47:32,System.Runtime,Allocation Rate (B / 1 sec),Rate,3979752
+07/20/2022 13:47:32,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:32,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:32,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:32,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:32,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:32,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:32,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:32,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:32,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:32,System.Runtime,IL Bytes Jitted (B),Metric,352618
+07/20/2022 13:47:32,System.Runtime,Number of Methods Jitted,Metric,3973
+07/20/2022 13:47:32,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:32,System.Runtime,Working Set (MB),Metric,120
+07/20/2022 13:47:32,System.Runtime,GC Heap Size (MB),Metric,42
+07/20/2022 13:47:32,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:32,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:32,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:32,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:32,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:32,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:32,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:32,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:32,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:32,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:32,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:32,System.Runtime,IL Bytes Jitted (B),Metric,352618
+07/20/2022 13:47:32,System.Runtime,Number of Methods Jitted,Metric,3973
+07/20/2022 13:47:32,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:32,System.Runtime,Working Set (MB),Metric,124
+07/20/2022 13:47:32,System.Runtime,GC Heap Size (MB),Metric,46
+07/20/2022 13:47:32,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:47:32,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1137
+07/20/2022 13:47:32,System.Runtime,Allocation Rate (B / 1 sec),Rate,4360488
+07/20/2022 13:47:32,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:32,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:32,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:32,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:32,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:32,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:32,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:32,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:32,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:32,System.Runtime,IL Bytes Jitted (B),Metric,352679
+07/20/2022 13:47:32,System.Runtime,Number of Methods Jitted,Metric,3974
+07/20/2022 13:47:32,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:32,System.Runtime,Working Set (MB),Metric,124
+07/20/2022 13:47:32,System.Runtime,GC Heap Size (MB),Metric,46
+07/20/2022 13:47:32,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:47:32,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:32,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:32,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:32,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:32,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:32,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:32,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:32,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:32,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:32,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:32,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:32,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:32,System.Runtime,IL Bytes Jitted (B),Metric,352679
+07/20/2022 13:47:32,System.Runtime,Number of Methods Jitted,Metric,3974
+07/20/2022 13:47:32,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:33,System.Runtime,Working Set (MB),Metric,129
+07/20/2022 13:47:33,System.Runtime,GC Heap Size (MB),Metric,51
+07/20/2022 13:47:33,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:33,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1100
+07/20/2022 13:47:33,System.Runtime,Allocation Rate (B / 1 sec),Rate,4377112
+07/20/2022 13:47:33,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:33,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:33,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:33,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:33,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:33,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:33,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:33,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:33,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:33,System.Runtime,IL Bytes Jitted (B),Metric,352679
+07/20/2022 13:47:33,System.Runtime,Number of Methods Jitted,Metric,3974
+07/20/2022 13:47:33,System.Runtime,CPU Usage (%),Metric,32
+07/20/2022 13:47:33,System.Runtime,Working Set (MB),Metric,129
+07/20/2022 13:47:33,System.Runtime,GC Heap Size (MB),Metric,51
+07/20/2022 13:47:33,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:33,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:33,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:33,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:33,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:33,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:33,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:33,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:33,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:33,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:33,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:33,System.Runtime,IL Bytes Jitted (B),Metric,352679
+07/20/2022 13:47:33,System.Runtime,Number of Methods Jitted,Metric,3974
+07/20/2022 13:47:33,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:33,System.Runtime,Working Set (MB),Metric,134
+07/20/2022 13:47:33,System.Runtime,GC Heap Size (MB),Metric,55
+07/20/2022 13:47:33,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Thread Count,Metric,25
+07/20/2022 13:47:33,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:33,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,985
+07/20/2022 13:47:33,System.Runtime,Allocation Rate (B / 1 sec),Rate,3944088
+07/20/2022 13:47:33,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:33,System.Runtime,GC Fragmentation (%),Metric,19.8085428513525
+07/20/2022 13:47:33,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:33,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:33,System.Runtime,Gen 0 Size (B),Metric,664552
+07/20/2022 13:47:33,System.Runtime,Gen 1 Size (B),Metric,24352
+07/20/2022 13:47:33,System.Runtime,Gen 2 Size (B),Metric,2322584
+07/20/2022 13:47:33,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:33,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,245064
+07/20/2022 13:47:33,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:33,System.Runtime,IL Bytes Jitted (B),Metric,352679
+07/20/2022 13:47:33,System.Runtime,Number of Methods Jitted,Metric,3974
+07/20/2022 13:47:35,System.Runtime,CPU Usage (%),Metric,4
+07/20/2022 13:47:36,System.Runtime,Working Set (MB),Metric,135
+07/20/2022 13:47:36,System.Runtime,GC Heap Size (MB),Metric,8
+07/20/2022 13:47:36,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,2
+07/20/2022 13:47:36,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,2
+07/20/2022 13:47:36,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,2
+07/20/2022 13:47:36,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:36,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,2
+07/20/2022 13:47:36,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:36,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1211
+07/20/2022 13:47:36,System.Runtime,Allocation Rate (B / 1 sec),Rate,4978648
+07/20/2022 13:47:36,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:36,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:36,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:36,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:36,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:36,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:36,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:36,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:36,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:36,System.Runtime,IL Bytes Jitted (B),Metric,352911
+07/20/2022 13:47:36,System.Runtime,Number of Methods Jitted,Metric,3977
+07/20/2022 13:47:36,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:36,System.Runtime,Working Set (MB),Metric,135
+07/20/2022 13:47:36,System.Runtime,GC Heap Size (MB),Metric,12
+07/20/2022 13:47:36,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:36,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:36,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,986
+07/20/2022 13:47:36,System.Runtime,Allocation Rate (B / 1 sec),Rate,3984104
+07/20/2022 13:47:36,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:36,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:36,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:36,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:36,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:36,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:36,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:36,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:36,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:36,System.Runtime,IL Bytes Jitted (B),Metric,353012
+07/20/2022 13:47:36,System.Runtime,Number of Methods Jitted,Metric,3981
+07/20/2022 13:47:36,System.Runtime,CPU Usage (%),Metric,5
+07/20/2022 13:47:36,System.Runtime,Working Set (MB),Metric,135
+07/20/2022 13:47:36,System.Runtime,GC Heap Size (MB),Metric,12
+07/20/2022 13:47:36,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:36,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:36,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:36,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:36,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:36,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:36,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:36,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:36,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:36,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:36,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:36,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:36,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:36,System.Runtime,IL Bytes Jitted (B),Metric,353127
+07/20/2022 13:47:36,System.Runtime,Number of Methods Jitted,Metric,3984
+07/20/2022 13:47:36,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:38,System.Runtime,Working Set (MB),Metric,135
+07/20/2022 13:47:38,System.Runtime,GC Heap Size (MB),Metric,16
+07/20/2022 13:47:38,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,ThreadPool Thread Count,Metric,24
+07/20/2022 13:47:38,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:38,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:38,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1083
+07/20/2022 13:47:38,System.Runtime,Allocation Rate (B / 1 sec),Rate,4364520
+07/20/2022 13:47:38,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:38,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:38,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:38,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:38,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:38,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:38,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:38,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:38,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:38,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:38,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:38,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:38,System.Runtime,Working Set (MB),Metric,135
+07/20/2022 13:47:38,System.Runtime,GC Heap Size (MB),Metric,16
+07/20/2022 13:47:38,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,ThreadPool Thread Count,Metric,24
+07/20/2022 13:47:38,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:38,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:38,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:38,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:38,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:38,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:38,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:38,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:38,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:38,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:38,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:38,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:38,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:38,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:38,System.Runtime,Working Set (MB),Metric,135
+07/20/2022 13:47:38,System.Runtime,GC Heap Size (MB),Metric,20
+07/20/2022 13:47:38,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:38,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:38,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,968
+07/20/2022 13:47:38,System.Runtime,Allocation Rate (B / 1 sec),Rate,3946104
+07/20/2022 13:47:38,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:38,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:38,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:38,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:38,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:38,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:38,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:38,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:38,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:38,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:38,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:38,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:38,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:40,System.Runtime,Working Set (MB),Metric,135
+07/20/2022 13:47:40,System.Runtime,GC Heap Size (MB),Metric,25
+07/20/2022 13:47:40,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:40,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:40,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:40,System.Runtime,ThreadPool Thread Count,Metric,24
+07/20/2022 13:47:40,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:40,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:40,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1134
+07/20/2022 13:47:40,System.Runtime,Allocation Rate (B / 1 sec),Rate,4383600
+07/20/2022 13:47:40,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:40,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:40,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:40,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:40,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:40,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:40,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:40,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:40,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:40,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:40,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:40,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:40,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:41,System.Runtime,Working Set (MB),Metric,136
+07/20/2022 13:47:41,System.Runtime,GC Heap Size (MB),Metric,29
+07/20/2022 13:47:41,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:41,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:41,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:41,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1007
+07/20/2022 13:47:41,System.Runtime,Allocation Rate (B / 1 sec),Rate,3954888
+07/20/2022 13:47:41,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:41,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:41,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:41,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:41,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:41,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:41,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:41,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:41,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:41,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:41,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:41,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:41,System.Runtime,Working Set (MB),Metric,136
+07/20/2022 13:47:41,System.Runtime,GC Heap Size (MB),Metric,33
+07/20/2022 13:47:41,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:41,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:41,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1140
+07/20/2022 13:47:41,System.Runtime,Allocation Rate (B / 1 sec),Rate,4368760
+07/20/2022 13:47:41,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:41,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:41,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:41,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:41,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:41,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:41,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:41,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:41,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:41,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:41,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:41,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:41,System.Runtime,Working Set (MB),Metric,136
+07/20/2022 13:47:41,System.Runtime,GC Heap Size (MB),Metric,33
+07/20/2022 13:47:41,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:41,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:41,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:41,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:41,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:41,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:41,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:41,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:41,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:41,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:41,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:41,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:41,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:41,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:41,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:41,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:43,System.Runtime,Working Set (MB),Metric,137
+07/20/2022 13:47:43,System.Runtime,GC Heap Size (MB),Metric,37
+07/20/2022 13:47:43,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:43,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:47:43,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:43,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,957
+07/20/2022 13:47:43,System.Runtime,Allocation Rate (B / 1 sec),Rate,3975472
+07/20/2022 13:47:43,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:43,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:43,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:43,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:43,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:43,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:43,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:43,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:43,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:43,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:43,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:43,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:43,System.Runtime,Working Set (MB),Metric,137
+07/20/2022 13:47:43,System.Runtime,GC Heap Size (MB),Metric,37
+07/20/2022 13:47:43,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:43,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:43,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:47:43,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:43,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:43,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:43,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:43,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:43,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:43,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:43,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:43,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:43,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:43,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:43,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:43,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:44,System.Runtime,Working Set (MB),Metric,138
+07/20/2022 13:47:44,System.Runtime,GC Heap Size (MB),Metric,41
+07/20/2022 13:47:44,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:44,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1137
+07/20/2022 13:47:44,System.Runtime,Allocation Rate (B / 1 sec),Rate,4371376
+07/20/2022 13:47:44,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:44,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:44,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:44,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:44,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:44,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:44,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:44,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:44,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:44,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:44,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:44,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:44,System.Runtime,Working Set (MB),Metric,138
+07/20/2022 13:47:44,System.Runtime,GC Heap Size (MB),Metric,46
+07/20/2022 13:47:44,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:44,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1143
+07/20/2022 13:47:44,System.Runtime,Allocation Rate (B / 1 sec),Rate,4360160
+07/20/2022 13:47:44,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:44,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:44,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:44,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:44,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:44,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:44,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:44,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:44,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:44,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:44,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:44,System.Runtime,CPU Usage (%),Metric,18
+07/20/2022 13:47:44,System.Runtime,Working Set (MB),Metric,138
+07/20/2022 13:47:44,System.Runtime,GC Heap Size (MB),Metric,46
+07/20/2022 13:47:44,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:44,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:44,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:44,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:44,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:44,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:44,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:44,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:44,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:44,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:44,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:44,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:44,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:44,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:44,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:44,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:46,System.Runtime,Working Set (MB),Metric,140
+07/20/2022 13:47:46,System.Runtime,GC Heap Size (MB),Metric,50
+07/20/2022 13:47:46,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:46,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:46,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:46,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:46,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:46,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:46,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,972
+07/20/2022 13:47:46,System.Runtime,Allocation Rate (B / 1 sec),Rate,3942464
+07/20/2022 13:47:46,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:46,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:46,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:46,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:46,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:46,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:46,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:46,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:46,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:46,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:46,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:46,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:46,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:47,System.Runtime,Working Set (MB),Metric,142
+07/20/2022 13:47:47,System.Runtime,GC Heap Size (MB),Metric,54
+07/20/2022 13:47:47,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:47,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:47,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1126
+07/20/2022 13:47:47,System.Runtime,Allocation Rate (B / 1 sec),Rate,4365288
+07/20/2022 13:47:47,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:47,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:47,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:47,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:47,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:47,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:47,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:47,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:47,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:47,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:47,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:47,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:47,System.Runtime,Working Set (MB),Metric,142
+07/20/2022 13:47:47,System.Runtime,GC Heap Size (MB),Metric,54
+07/20/2022 13:47:47,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:47,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:47,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:47,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:47,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:47,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:47,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:47,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:47,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:47,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:47,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:47,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:47,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:47,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:47,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:47,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:48,System.Runtime,Working Set (MB),Metric,145
+07/20/2022 13:47:48,System.Runtime,GC Heap Size (MB),Metric,58
+07/20/2022 13:47:48,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Thread Count,Metric,23
+07/20/2022 13:47:48,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,987
+07/20/2022 13:47:48,System.Runtime,Allocation Rate (B / 1 sec),Rate,3958528
+07/20/2022 13:47:48,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:48,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:48,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:48,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:48,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:48,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:48,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:48,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:48,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:48,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:48,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:48,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:48,System.Runtime,Working Set (MB),Metric,145
+07/20/2022 13:47:48,System.Runtime,GC Heap Size (MB),Metric,58
+07/20/2022 13:47:48,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Thread Count,Metric,23
+07/20/2022 13:47:48,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:48,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:48,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:48,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:48,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:48,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:48,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:48,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:48,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:48,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:48,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:48,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:48,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:48,System.Runtime,Working Set (MB),Metric,148
+07/20/2022 13:47:48,System.Runtime,GC Heap Size (MB),Metric,63
+07/20/2022 13:47:48,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Thread Count,Metric,23
+07/20/2022 13:47:48,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:48,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1084
+07/20/2022 13:47:48,System.Runtime,Allocation Rate (B / 1 sec),Rate,4364576
+07/20/2022 13:47:48,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:48,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:48,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:48,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:48,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:48,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:48,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:48,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:48,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:48,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:48,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:48,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:48,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:50,System.Runtime,Working Set (MB),Metric,151
+07/20/2022 13:47:50,System.Runtime,GC Heap Size (MB),Metric,66
+07/20/2022 13:47:50,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:50,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:50,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:50,System.Runtime,ThreadPool Thread Count,Metric,22
+07/20/2022 13:47:50,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:50,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:50,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1013
+07/20/2022 13:47:50,System.Runtime,Allocation Rate (B / 1 sec),Rate,3920488
+07/20/2022 13:47:50,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:50,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:50,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:50,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:50,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:50,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:50,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:50,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:50,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:50,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:50,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:50,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:50,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:51,System.Runtime,Working Set (MB),Metric,154
+07/20/2022 13:47:51,System.Runtime,GC Heap Size (MB),Metric,71
+07/20/2022 13:47:51,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:51,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:51,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:51,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:51,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:51,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:51,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1179
+07/20/2022 13:47:51,System.Runtime,Allocation Rate (B / 1 sec),Rate,4375584
+07/20/2022 13:47:51,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:51,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:51,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:51,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:51,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:51,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:51,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:51,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:51,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:51,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:51,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:51,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:51,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:52,System.Runtime,Working Set (MB),Metric,157
+07/20/2022 13:47:52,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:47:52,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Thread Count,Metric,22
+07/20/2022 13:47:52,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1031
+07/20/2022 13:47:52,System.Runtime,Allocation Rate (B / 1 sec),Rate,3930016
+07/20/2022 13:47:52,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:52,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:52,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:52,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:52,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:52,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:52,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:52,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:52,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:52,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:52,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:52,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:52,System.Runtime,Working Set (MB),Metric,162
+07/20/2022 13:47:52,System.Runtime,GC Heap Size (MB),Metric,79
+07/20/2022 13:47:52,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:52,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1182
+07/20/2022 13:47:52,System.Runtime,Allocation Rate (B / 1 sec),Rate,4403112
+07/20/2022 13:47:52,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:52,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:52,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:52,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:52,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:52,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:52,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:52,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:52,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:52,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:52,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:52,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:52,System.Runtime,Working Set (MB),Metric,162
+07/20/2022 13:47:52,System.Runtime,GC Heap Size (MB),Metric,79
+07/20/2022 13:47:52,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:52,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:52,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:52,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:52,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:52,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:52,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:52,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:52,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:52,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:52,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:52,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:52,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:52,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:52,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:52,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:54,System.Runtime,Working Set (MB),Metric,165
+07/20/2022 13:47:54,System.Runtime,GC Heap Size (MB),Metric,83
+07/20/2022 13:47:54,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:54,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1077
+07/20/2022 13:47:54,System.Runtime,Allocation Rate (B / 1 sec),Rate,3913768
+07/20/2022 13:47:54,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:54,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:54,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:54,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:54,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:54,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:54,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:54,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:54,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:54,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:54,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:54,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:54,System.Runtime,Working Set (MB),Metric,165
+07/20/2022 13:47:54,System.Runtime,GC Heap Size (MB),Metric,83
+07/20/2022 13:47:54,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:54,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:47:54,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:54,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:54,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:54,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:54,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:54,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:54,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:54,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:54,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:54,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:54,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:54,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:54,System.Runtime,Working Set (MB),Metric,169
+07/20/2022 13:47:54,System.Runtime,GC Heap Size (MB),Metric,87
+07/20/2022 13:47:54,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Thread Count,Metric,22
+07/20/2022 13:47:54,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:54,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1165
+07/20/2022 13:47:54,System.Runtime,Allocation Rate (B / 1 sec),Rate,4369936
+07/20/2022 13:47:54,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:54,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:54,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:54,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:54,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:54,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:54,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:54,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:54,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:54,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:54,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:54,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:54,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:56,System.Runtime,Working Set (MB),Metric,173
+07/20/2022 13:47:56,System.Runtime,GC Heap Size (MB),Metric,91
+07/20/2022 13:47:56,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:56,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1045
+07/20/2022 13:47:56,System.Runtime,Allocation Rate (B / 1 sec),Rate,3954016
+07/20/2022 13:47:56,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:56,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:56,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:56,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:56,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:56,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:56,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:56,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:56,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:56,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:56,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:56,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:56,System.Runtime,Working Set (MB),Metric,177
+07/20/2022 13:47:56,System.Runtime,GC Heap Size (MB),Metric,96
+07/20/2022 13:47:56,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:56,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1098
+07/20/2022 13:47:56,System.Runtime,Allocation Rate (B / 1 sec),Rate,4356704
+07/20/2022 13:47:56,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:56,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:56,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:56,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:56,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:56,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:56,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:56,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:56,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:56,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:56,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:56,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:56,System.Runtime,Working Set (MB),Metric,177
+07/20/2022 13:47:56,System.Runtime,GC Heap Size (MB),Metric,96
+07/20/2022 13:47:56,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:56,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:56,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:47:56,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:56,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:56,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:56,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:56,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:56,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:56,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:56,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:56,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:56,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:56,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:56,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:56,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:58,System.Runtime,Working Set (MB),Metric,181
+07/20/2022 13:47:58,System.Runtime,GC Heap Size (MB),Metric,100
+07/20/2022 13:47:58,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:47:58,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:58,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1027
+07/20/2022 13:47:58,System.Runtime,Allocation Rate (B / 1 sec),Rate,3941128
+07/20/2022 13:47:58,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:58,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:58,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:58,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:58,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:58,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:58,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:58,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:58,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:58,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:58,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:58,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:47:58,System.Runtime,Working Set (MB),Metric,181
+07/20/2022 13:47:58,System.Runtime,GC Heap Size (MB),Metric,100
+07/20/2022 13:47:58,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:47:58,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:58,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:47:58,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:58,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:58,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:58,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:58,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:58,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:58,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:58,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:58,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:58,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:58,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:58,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:58,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:47:59,System.Runtime,Working Set (MB),Metric,186
+07/20/2022 13:47:59,System.Runtime,GC Heap Size (MB),Metric,104
+07/20/2022 13:47:59,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:59,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:59,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:59,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:47:59,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:59,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:47:59,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1141
+07/20/2022 13:47:59,System.Runtime,Allocation Rate (B / 1 sec),Rate,4352752
+07/20/2022 13:47:59,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:47:59,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:47:59,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:47:59,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:47:59,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:47:59,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:47:59,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:47:59,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:47:59,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:47:59,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:47:59,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:47:59,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:47:59,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:00,System.Runtime,Working Set (MB),Metric,190
+07/20/2022 13:48:00,System.Runtime,GC Heap Size (MB),Metric,108
+07/20/2022 13:48:00,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:00,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:00,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1005
+07/20/2022 13:48:00,System.Runtime,Allocation Rate (B / 1 sec),Rate,3955928
+07/20/2022 13:48:00,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:00,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:00,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:00,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:00,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:00,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:00,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:00,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:00,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:00,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:00,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:00,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:00,System.Runtime,Working Set (MB),Metric,190
+07/20/2022 13:48:00,System.Runtime,GC Heap Size (MB),Metric,108
+07/20/2022 13:48:00,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:00,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:00,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,Allocation Rate (B / 1 sec),Rate,16048
+07/20/2022 13:48:00,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:00,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:00,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:00,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:00,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:00,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:00,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:00,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:00,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:00,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:00,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:00,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:00,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:01,System.Runtime,Working Set (MB),Metric,194
+07/20/2022 13:48:01,System.Runtime,GC Heap Size (MB),Metric,112
+07/20/2022 13:48:01,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:01,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:01,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:01,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:01,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:01,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:01,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1112
+07/20/2022 13:48:01,System.Runtime,Allocation Rate (B / 1 sec),Rate,4349696
+07/20/2022 13:48:01,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:01,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:01,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:01,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:01,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:01,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:01,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:01,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:01,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:01,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:01,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:01,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:01,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:02,System.Runtime,Working Set (MB),Metric,199
+07/20/2022 13:48:02,System.Runtime,GC Heap Size (MB),Metric,117
+07/20/2022 13:48:02,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:02,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:02,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1125
+07/20/2022 13:48:02,System.Runtime,Allocation Rate (B / 1 sec),Rate,4356952
+07/20/2022 13:48:02,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:02,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:02,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:02,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:02,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:02,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:02,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:02,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:02,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:02,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:02,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:02,System.Runtime,CPU Usage (%),Metric,33
+07/20/2022 13:48:02,System.Runtime,Working Set (MB),Metric,199
+07/20/2022 13:48:02,System.Runtime,GC Heap Size (MB),Metric,117
+07/20/2022 13:48:02,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:02,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:02,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,Allocation Rate (B / 1 sec),Rate,20264
+07/20/2022 13:48:02,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:02,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:02,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:02,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:02,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:02,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:02,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:02,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:02,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:02,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:02,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:02,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:02,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:03,System.Runtime,Working Set (MB),Metric,203
+07/20/2022 13:48:03,System.Runtime,GC Heap Size (MB),Metric,121
+07/20/2022 13:48:03,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:03,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:03,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:03,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:03,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:48:03,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:03,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1014
+07/20/2022 13:48:03,System.Runtime,Allocation Rate (B / 1 sec),Rate,3954464
+07/20/2022 13:48:03,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:03,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:03,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:03,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:03,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:03,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:03,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:03,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:03,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:03,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:03,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:03,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:03,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:04,System.Runtime,Working Set (MB),Metric,207
+07/20/2022 13:48:04,System.Runtime,GC Heap Size (MB),Metric,125
+07/20/2022 13:48:04,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:04,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:04,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1112
+07/20/2022 13:48:04,System.Runtime,Allocation Rate (B / 1 sec),Rate,4347240
+07/20/2022 13:48:04,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:04,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:04,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:04,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:04,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:04,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:04,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:04,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:04,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:04,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:04,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:04,System.Runtime,CPU Usage (%),Metric,28
+07/20/2022 13:48:04,System.Runtime,Working Set (MB),Metric,207
+07/20/2022 13:48:04,System.Runtime,GC Heap Size (MB),Metric,125
+07/20/2022 13:48:04,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:04,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:04,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,Allocation Rate (B / 1 sec),Rate,18688
+07/20/2022 13:48:04,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:04,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:04,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:04,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:04,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:04,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:04,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:04,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:04,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:04,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:04,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:04,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:04,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:05,System.Runtime,Working Set (MB),Metric,211
+07/20/2022 13:48:05,System.Runtime,GC Heap Size (MB),Metric,129
+07/20/2022 13:48:05,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:05,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:05,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1012
+07/20/2022 13:48:05,System.Runtime,Allocation Rate (B / 1 sec),Rate,3944776
+07/20/2022 13:48:05,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:05,System.Runtime,GC Fragmentation (%),Metric,10.1952029097468
+07/20/2022 13:48:05,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:05,System.Runtime,Gen 0 Size (B),Metric,656328
+07/20/2022 13:48:05,System.Runtime,Gen 1 Size (B),Metric,333432
+07/20/2022 13:48:05,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:05,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:05,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:05,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:05,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:05,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:05,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:05,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:05,System.Runtime,GC Heap Size (MB),Metric,8
+07/20/2022 13:48:05,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,1
+07/20/2022 13:48:05,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:05,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:05,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1116
+07/20/2022 13:48:05,System.Runtime,Allocation Rate (B / 1 sec),Rate,4450248
+07/20/2022 13:48:05,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:05,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:05,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:05,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:05,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:05,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:05,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:05,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:05,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:05,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:05,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:05,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:05,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:07,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:07,System.Runtime,GC Heap Size (MB),Metric,12
+07/20/2022 13:48:07,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:07,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:07,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:07,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:07,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:07,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:07,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,987
+07/20/2022 13:48:07,System.Runtime,Allocation Rate (B / 1 sec),Rate,3964792
+07/20/2022 13:48:07,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:07,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:07,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:07,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:07,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:07,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:07,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:07,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:07,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:07,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:07,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:07,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:07,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:08,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:08,System.Runtime,GC Heap Size (MB),Metric,16
+07/20/2022 13:48:08,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:08,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:08,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:08,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:08,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:08,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:08,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1105
+07/20/2022 13:48:08,System.Runtime,Allocation Rate (B / 1 sec),Rate,4402792
+07/20/2022 13:48:08,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:08,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:08,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:08,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:08,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:08,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:08,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:08,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:08,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:08,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:08,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:08,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:08,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:09,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:09,System.Runtime,GC Heap Size (MB),Metric,20
+07/20/2022 13:48:09,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:09,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:09,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:09,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:09,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:09,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:09,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,995
+07/20/2022 13:48:09,System.Runtime,Allocation Rate (B / 1 sec),Rate,4003432
+07/20/2022 13:48:09,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:09,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:09,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:09,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:09,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:09,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:09,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:09,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:09,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:09,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:09,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:09,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:09,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:10,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:10,System.Runtime,GC Heap Size (MB),Metric,25
+07/20/2022 13:48:10,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:10,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:10,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:10,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:10,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:10,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:10,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1151
+07/20/2022 13:48:10,System.Runtime,Allocation Rate (B / 1 sec),Rate,4382184
+07/20/2022 13:48:10,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:10,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:10,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:10,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:10,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:10,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:10,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:10,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:10,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:10,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:10,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:10,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:10,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:11,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:11,System.Runtime,GC Heap Size (MB),Metric,29
+07/20/2022 13:48:11,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:11,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:11,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1027
+07/20/2022 13:48:11,System.Runtime,Allocation Rate (B / 1 sec),Rate,3991072
+07/20/2022 13:48:11,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:11,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:11,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:11,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:11,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:11,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:11,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:11,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:11,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:11,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:11,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:11,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:11,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:11,System.Runtime,GC Heap Size (MB),Metric,29
+07/20/2022 13:48:11,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:11,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:11,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:48:11,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:11,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:11,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:11,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:11,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:11,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:11,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:11,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:11,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:11,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:11,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:11,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:11,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:12,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:12,System.Runtime,GC Heap Size (MB),Metric,33
+07/20/2022 13:48:12,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:12,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:12,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:12,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:12,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:12,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:12,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1137
+07/20/2022 13:48:12,System.Runtime,Allocation Rate (B / 1 sec),Rate,4400568
+07/20/2022 13:48:12,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:12,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:12,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:12,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:12,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:12,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:12,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:12,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:12,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:12,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:12,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:12,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:12,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:13,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:13,System.Runtime,GC Heap Size (MB),Metric,37
+07/20/2022 13:48:13,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:13,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:13,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:13,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:13,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:13,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:13,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1022
+07/20/2022 13:48:13,System.Runtime,Allocation Rate (B / 1 sec),Rate,3975136
+07/20/2022 13:48:13,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:13,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:13,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:13,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:13,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:13,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:13,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:13,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:13,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:13,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:13,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:13,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:13,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:14,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:14,System.Runtime,GC Heap Size (MB),Metric,42
+07/20/2022 13:48:14,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:14,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1089
+07/20/2022 13:48:14,System.Runtime,Allocation Rate (B / 1 sec),Rate,4406016
+07/20/2022 13:48:14,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:14,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:14,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:14,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:14,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:14,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:14,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:14,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:14,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:14,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:14,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:14,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:14,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:14,System.Runtime,GC Heap Size (MB),Metric,42
+07/20/2022 13:48:14,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:14,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:48:14,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:14,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:14,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:14,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:14,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:14,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:14,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:14,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:14,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:14,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:14,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:14,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:14,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:14,System.Runtime,GC Heap Size (MB),Metric,46
+07/20/2022 13:48:14,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:14,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:14,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1007
+07/20/2022 13:48:14,System.Runtime,Allocation Rate (B / 1 sec),Rate,3975920
+07/20/2022 13:48:14,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:14,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:14,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:14,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:14,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:14,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:14,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:14,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:14,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:14,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:14,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:14,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:14,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:15,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:15,System.Runtime,GC Heap Size (MB),Metric,50
+07/20/2022 13:48:15,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:15,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:48:15,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:15,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1100
+07/20/2022 13:48:15,System.Runtime,Allocation Rate (B / 1 sec),Rate,4442064
+07/20/2022 13:48:15,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:15,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:15,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:15,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:15,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:15,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:15,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:15,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:15,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:15,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:15,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:15,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:15,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:15,System.Runtime,GC Heap Size (MB),Metric,50
+07/20/2022 13:48:15,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:15,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:15,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:48:15,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:15,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:15,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:15,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:15,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:15,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:15,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:15,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:15,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:15,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:15,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:15,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:15,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:16,System.Runtime,Working Set (MB),Metric,214
+07/20/2022 13:48:16,System.Runtime,GC Heap Size (MB),Metric,54
+07/20/2022 13:48:16,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:16,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:16,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:16,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:16,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:16,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:16,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,963
+07/20/2022 13:48:16,System.Runtime,Allocation Rate (B / 1 sec),Rate,3964240
+07/20/2022 13:48:16,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:16,System.Runtime,GC Fragmentation (%),Metric,80.332023496168
+07/20/2022 13:48:16,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:16,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:16,System.Runtime,Gen 0 Size (B),Metric,26547136
+07/20/2022 13:48:16,System.Runtime,Gen 1 Size (B),Metric,977712
+07/20/2022 13:48:16,System.Runtime,Gen 2 Size (B),Metric,3586192
+07/20/2022 13:48:16,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:16,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:16,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:16,System.Runtime,IL Bytes Jitted (B),Metric,355117
+07/20/2022 13:48:16,System.Runtime,Number of Methods Jitted,Metric,4022
+07/20/2022 13:48:17,System.Runtime,CPU Usage (%),Metric,3
+07/20/2022 13:48:17,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:17,System.Runtime,GC Heap Size (MB),Metric,7
+07/20/2022 13:48:17,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,2
+07/20/2022 13:48:17,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,2
+07/20/2022 13:48:17,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,2
+07/20/2022 13:48:17,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:17,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:48:17,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:17,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1130
+07/20/2022 13:48:17,System.Runtime,Allocation Rate (B / 1 sec),Rate,4904944
+07/20/2022 13:48:17,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:17,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:17,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:17,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:17,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:17,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:17,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:17,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:17,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:17,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:17,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:17,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:17,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:19,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:19,System.Runtime,GC Heap Size (MB),Metric,11
+07/20/2022 13:48:19,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:19,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:19,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:19,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:19,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:19,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:19,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1070
+07/20/2022 13:48:19,System.Runtime,Allocation Rate (B / 1 sec),Rate,4056480
+07/20/2022 13:48:19,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:19,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:19,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:19,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:19,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:19,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:19,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:19,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:19,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:19,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:19,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:19,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:19,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:20,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:20,System.Runtime,GC Heap Size (MB),Metric,15
+07/20/2022 13:48:20,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:20,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:20,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:20,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:20,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:20,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:20,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1145
+07/20/2022 13:48:20,System.Runtime,Allocation Rate (B / 1 sec),Rate,4458496
+07/20/2022 13:48:20,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:20,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:20,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:20,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:20,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:20,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:20,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:20,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:20,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:20,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:20,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:20,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:20,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:21,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:21,System.Runtime,GC Heap Size (MB),Metric,19
+07/20/2022 13:48:21,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:21,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:21,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1008
+07/20/2022 13:48:21,System.Runtime,Allocation Rate (B / 1 sec),Rate,4009096
+07/20/2022 13:48:21,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:21,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:21,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:21,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:21,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:21,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:21,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:21,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:21,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:21,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:21,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:21,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:21,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:21,System.Runtime,GC Heap Size (MB),Metric,19
+07/20/2022 13:48:21,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:21,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:21,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:48:21,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:21,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:21,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:21,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:21,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:21,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:21,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:21,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:21,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:21,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:21,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:21,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:21,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:22,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:22,System.Runtime,GC Heap Size (MB),Metric,24
+07/20/2022 13:48:22,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:22,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:22,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:22,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:22,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:22,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:22,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1146
+07/20/2022 13:48:22,System.Runtime,Allocation Rate (B / 1 sec),Rate,4465712
+07/20/2022 13:48:22,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:22,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:22,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:22,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:22,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:22,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:22,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:22,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:22,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:22,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:22,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:22,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:22,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:23,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:23,System.Runtime,GC Heap Size (MB),Metric,28
+07/20/2022 13:48:23,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:23,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:23,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:23,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:23,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:23,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:23,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1047
+07/20/2022 13:48:23,System.Runtime,Allocation Rate (B / 1 sec),Rate,3957424
+07/20/2022 13:48:23,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:23,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:23,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:23,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:23,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:23,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:23,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:23,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:23,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:23,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:23,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:23,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:23,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:24,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:24,System.Runtime,GC Heap Size (MB),Metric,32
+07/20/2022 13:48:24,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:24,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:24,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:24,System.Runtime,ThreadPool Thread Count,Metric,16
+07/20/2022 13:48:24,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:24,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:24,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1155
+07/20/2022 13:48:24,System.Runtime,Allocation Rate (B / 1 sec),Rate,4424800
+07/20/2022 13:48:24,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:24,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:24,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:24,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:24,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:24,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:24,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:24,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:24,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:24,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:24,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:24,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:24,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:25,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:25,System.Runtime,GC Heap Size (MB),Metric,37
+07/20/2022 13:48:25,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:25,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:25,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:25,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:25,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:25,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:25,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1084
+07/20/2022 13:48:25,System.Runtime,Allocation Rate (B / 1 sec),Rate,4399136
+07/20/2022 13:48:25,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:25,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:25,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:25,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:25,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:25,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:25,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:25,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:25,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:25,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:25,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:25,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:25,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:26,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:26,System.Runtime,GC Heap Size (MB),Metric,40
+07/20/2022 13:48:26,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:26,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:26,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:26,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:26,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:26,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:26,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,922
+07/20/2022 13:48:26,System.Runtime,Allocation Rate (B / 1 sec),Rate,3556944
+07/20/2022 13:48:26,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:26,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:26,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:26,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:26,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:26,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:26,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:26,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:26,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:26,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:26,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:26,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:26,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:27,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:27,System.Runtime,GC Heap Size (MB),Metric,45
+07/20/2022 13:48:27,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:27,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:27,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1146
+07/20/2022 13:48:27,System.Runtime,Allocation Rate (B / 1 sec),Rate,4408760
+07/20/2022 13:48:27,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:27,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:27,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:27,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:27,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:27,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:27,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:27,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:27,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:27,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:27,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:27,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:27,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:27,System.Runtime,GC Heap Size (MB),Metric,45
+07/20/2022 13:48:27,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,ThreadPool Thread Count,Metric,21
+07/20/2022 13:48:27,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:27,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:48:27,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:27,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:27,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:27,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:27,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:27,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:27,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:27,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:27,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:27,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:27,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:27,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:27,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:28,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:28,System.Runtime,GC Heap Size (MB),Metric,49
+07/20/2022 13:48:28,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:28,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:28,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:28,System.Runtime,ThreadPool Thread Count,Metric,17
+07/20/2022 13:48:28,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:28,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:28,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1031
+07/20/2022 13:48:28,System.Runtime,Allocation Rate (B / 1 sec),Rate,3976280
+07/20/2022 13:48:28,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:28,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:28,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:28,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:28,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:28,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:28,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:28,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:28,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:28,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:28,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:28,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:28,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:29,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:29,System.Runtime,GC Heap Size (MB),Metric,53
+07/20/2022 13:48:29,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,ThreadPool Thread Count,Metric,17
+07/20/2022 13:48:29,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:29,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1134
+07/20/2022 13:48:29,System.Runtime,Allocation Rate (B / 1 sec),Rate,4454496
+07/20/2022 13:48:29,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:29,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:29,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:29,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:29,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:29,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:29,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:29,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:29,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:29,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:29,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:29,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:29,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:29,System.Runtime,GC Heap Size (MB),Metric,53
+07/20/2022 13:48:29,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,ThreadPool Thread Count,Metric,17
+07/20/2022 13:48:29,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:29,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:48:29,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:29,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:29,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:29,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:29,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:29,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:29,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:29,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:29,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:29,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:29,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:29,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:29,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:30,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:30,System.Runtime,GC Heap Size (MB),Metric,58
+07/20/2022 13:48:30,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:30,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:30,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:30,System.Runtime,ThreadPool Thread Count,Metric,24
+07/20/2022 13:48:30,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:30,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:30,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1117
+07/20/2022 13:48:30,System.Runtime,Allocation Rate (B / 1 sec),Rate,4474240
+07/20/2022 13:48:30,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:30,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:30,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:30,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:30,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:30,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:30,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:30,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:30,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:30,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:30,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:30,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:30,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:31,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:31,System.Runtime,GC Heap Size (MB),Metric,62
+07/20/2022 13:48:31,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:31,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:31,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:31,System.Runtime,ThreadPool Thread Count,Metric,25
+07/20/2022 13:48:31,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:31,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:31,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1006
+07/20/2022 13:48:31,System.Runtime,Allocation Rate (B / 1 sec),Rate,3978856
+07/20/2022 13:48:31,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:31,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:31,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:31,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:31,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:31,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:31,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:31,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:31,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:31,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:31,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:31,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:31,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:32,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:32,System.Runtime,GC Heap Size (MB),Metric,66
+07/20/2022 13:48:32,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:32,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:32,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,965
+07/20/2022 13:48:32,System.Runtime,Allocation Rate (B / 1 sec),Rate,4004936
+07/20/2022 13:48:32,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:32,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:32,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:32,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:32,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:32,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:32,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:32,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:32,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:32,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:32,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:32,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:32,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:32,System.Runtime,GC Heap Size (MB),Metric,66
+07/20/2022 13:48:32,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:32,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:32,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:48:32,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:32,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:32,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:32,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:32,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:32,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:32,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:32,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:32,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:32,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:32,System.Runtime,IL Bytes Jitted (B),Metric,355127
+07/20/2022 13:48:32,System.Runtime,Number of Methods Jitted,Metric,4023
+07/20/2022 13:48:32,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:33,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:33,System.Runtime,GC Heap Size (MB),Metric,70
+07/20/2022 13:48:33,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:33,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:33,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:33,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:33,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,1
+07/20/2022 13:48:33,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:33,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1120
+07/20/2022 13:48:33,System.Runtime,Allocation Rate (B / 1 sec),Rate,4421720
+07/20/2022 13:48:33,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:33,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:33,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:33,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:33,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:33,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:33,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:33,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:33,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:33,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:33,System.Runtime,IL Bytes Jitted (B),Metric,355139
+07/20/2022 13:48:33,System.Runtime,Number of Methods Jitted,Metric,4024
+07/20/2022 13:48:33,System.Runtime,CPU Usage (%),Metric,1
+07/20/2022 13:48:34,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:34,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:34,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:34,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:34,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,1110
+07/20/2022 13:48:34,System.Runtime,Allocation Rate (B / 1 sec),Rate,4414536
+07/20/2022 13:48:34,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:34,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:34,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:34,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:34,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:34,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:34,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:34,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:34,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:34,System.Runtime,IL Bytes Jitted (B),Metric,355139
+07/20/2022 13:48:34,System.Runtime,Number of Methods Jitted,Metric,4024
+07/20/2022 13:48:34,System.Runtime,CPU Usage (%),Metric,27
+07/20/2022 13:48:34,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:34,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:34,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,ThreadPool Thread Count,Metric,20
+07/20/2022 13:48:34,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:34,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:48:34,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:34,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:34,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:34,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:34,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:34,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:34,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:34,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:34,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:34,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:34,System.Runtime,IL Bytes Jitted (B),Metric,355139
+07/20/2022 13:48:34,System.Runtime,Number of Methods Jitted,Metric,4024
+07/20/2022 13:48:34,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:48:35,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:35,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:35,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:35,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,2
+07/20/2022 13:48:35,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:35,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,281
+07/20/2022 13:48:35,System.Runtime,Allocation Rate (B / 1 sec),Rate,524592
+07/20/2022 13:48:35,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:35,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:35,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:35,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:35,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:35,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:35,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:35,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:35,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:35,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:35,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:35,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:35,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:35,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:35,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:35,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:35,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:48:35,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:35,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:35,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:35,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:35,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:35,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:35,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:35,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:35,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:35,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:35,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:35,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:35,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:48:36,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:36,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:36,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:36,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,24
+07/20/2022 13:48:36,System.Runtime,Allocation Rate (B / 1 sec),Rate,88792
+07/20/2022 13:48:36,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:36,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:36,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:36,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:36,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:36,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:36,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:36,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:36,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:36,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:36,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:36,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:48:36,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:36,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:36,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:36,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,18
+07/20/2022 13:48:36,System.Runtime,Allocation Rate (B / 1 sec),Rate,62752
+07/20/2022 13:48:36,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:36,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:36,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:36,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:36,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:36,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:36,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:36,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:36,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:36,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:36,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:36,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:36,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:36,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:36,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:36,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:36,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,Allocation Rate (B / 1 sec),Rate,24504
+07/20/2022 13:48:36,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:36,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:36,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:36,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:36,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:36,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:36,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:36,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:36,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:36,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:36,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:36,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:36,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:48:38,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:38,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:38,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:38,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,18
+07/20/2022 13:48:38,System.Runtime,Allocation Rate (B / 1 sec),Rate,81680
+07/20/2022 13:48:38,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:38,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:38,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:38,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:38,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:38,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:38,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:38,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:38,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:38,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:38,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:38,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:38,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:38,System.Runtime,GC Heap Size (MB),Metric,75
+07/20/2022 13:48:38,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:38,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:48:38,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:38,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:38,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:38,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:38,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:38,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:38,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:38,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:38,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:38,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:38,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:38,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:48:38,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:38,System.Runtime,GC Heap Size (MB),Metric,76
+07/20/2022 13:48:38,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:38,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,24
+07/20/2022 13:48:38,System.Runtime,Allocation Rate (B / 1 sec),Rate,118152
+07/20/2022 13:48:38,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:38,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:38,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:38,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:38,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:38,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:38,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:38,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:38,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:38,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:38,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:38,System.Runtime,CPU Usage (%),Metric,0
+07/20/2022 13:48:38,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:38,System.Runtime,GC Heap Size (MB),Metric,76
+07/20/2022 13:48:38,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:38,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,18
+07/20/2022 13:48:38,System.Runtime,Allocation Rate (B / 1 sec),Rate,90024
+07/20/2022 13:48:38,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:38,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:38,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:38,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:38,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:38,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:38,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:38,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:38,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:38,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:38,System.Runtime,Number of Methods Jitted,Metric,4111
+07/20/2022 13:48:38,System.Runtime,CPU Usage (%),Metric,2
+07/20/2022 13:48:38,System.Runtime,Working Set (MB),Metric,215
+07/20/2022 13:48:38,System.Runtime,GC Heap Size (MB),Metric,76
+07/20/2022 13:48:38,System.Runtime,Gen 0 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 1 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Gen 2 GC Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Thread Count,Metric,26
+07/20/2022 13:48:38,System.Runtime,Monitor Lock Contention Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Queue Length,Metric,0
+07/20/2022 13:48:38,System.Runtime,ThreadPool Completed Work Item Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,Allocation Rate (B / 1 sec),Rate,16336
+07/20/2022 13:48:38,System.Runtime,Number of Active Timers,Metric,0
+07/20/2022 13:48:38,System.Runtime,GC Fragmentation (%),Metric,10.242339902713
+07/20/2022 13:48:38,System.Runtime,Exception Count (Count / 1 sec),Rate,0
+07/20/2022 13:48:38,System.Runtime,% Time in GC since last GC (%),Metric,0
+07/20/2022 13:48:38,System.Runtime,Gen 0 Size (B),Metric,894192
+07/20/2022 13:48:38,System.Runtime,Gen 1 Size (B),Metric,1287632
+07/20/2022 13:48:38,System.Runtime,Gen 2 Size (B),Metric,2282312
+07/20/2022 13:48:38,System.Runtime,LOH Size (B),Metric,98768
+07/20/2022 13:48:38,System.Runtime,POH (Pinned Object Heap) Size (B),Metric,1818216
+07/20/2022 13:48:38,System.Runtime,Number of Assemblies Loaded,Metric,142
+07/20/2022 13:48:38,System.Runtime,IL Bytes Jitted (B),Metric,362139
+07/20/2022 13:48:38,System.Runtime,Number of Methods Jitted,Metric,4111
