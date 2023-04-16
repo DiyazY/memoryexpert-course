@@ -59,6 +59,7 @@ GC#        10 | NonConcurrentGC |     2 |      35.51 |            AllocSmall |  
 
 
 ## on proper Windows machine
+### TASK 1.1
 - what are the result? What GC are triggered and why? What are the generation sizes in time?
   - The test showed a lot of GC Gen2 which were triggered by `AllocLarge` and done by `BackgroundGC`. Rarerly, the GC Gen0 were triggered by `AllocSmall` and done by `NonConcurrentGC`.  As we can see, `BacgroundGC` for Gen2 takes signifinltly more time than for Gen0(3 times more). While Gen2 GC was triggered a lot, it is clear that the pressure was on LOH, on a table, we can see how the size of LOH flactuates drastically while gen2 size is the same and gen0 is going up.
 ```
@@ -115,4 +116,30 @@ Over time, on a printed info page we can see that Gen 0 and Gen 3 changes their 
       Gen 4:         1 031 520 Bytes
   
   ```
+### TASK 1.2
+```
+Monitoring process with name: MemoryLeak and pid: 15128
+GC#     index |            type |   gen |                reason | peak size (mb) | promoted (mb) | LOH size (mb) | LOH survival rate | LOH frag ratio |
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+GC#         1 |    BackgroundGC |     2 |            AllocLarge |          0,000 |         1,194 |        13,630 |                 0 |              0 |
+GC#         2 |    BackgroundGC |     2 |            AllocLarge |          0,000 |         0,854 |        11,656 |                 0 |              0 |
+GC#         3 |    BackgroundGC |     2 |            AllocLarge |         29,850 |         1,704 |        17,525 |                 0 |              0 |
+GC#         4 |    BackgroundGC |     2 |            AllocLarge |         29,850 |         0,769 |         8,339 |                 0 |              0 |
+GC#         5 |    BackgroundGC |     2 |            AllocLarge |         27,808 |         1,109 |        15,484 |                 0 |              0 |
+GC#         6 |    BackgroundGC |     2 |            AllocLarge |         27,808 |         0,854 |         8,254 |                 0 |              0 |
+GC#         7 |    BackgroundGC |     2 |            AllocLarge |         20,579 |         0,684 |         6,553 |                 0 |              0 |
+GC#         8 |    BackgroundGC |     2 |            AllocLarge |         18,877 |         0,684 |         2,980 |                 0 |              0 |
+GC#         9 |    BackgroundGC |     2 |            AllocLarge |         23,300 |         0,939 |        10,976 |                 0 |              0 |
+GC#        10 |    BackgroundGC |     2 |            AllocLarge |         23,300 |         0,514 |         0,939 |                 0 |              0 |
+GC#        11 |    BackgroundGC |     2 |            AllocLarge |         24,746 |         1,109 |        12,422 |                 0 |              0 |
+GC#        12 |    BackgroundGC |     2 |            AllocLarge |         24,746 |         0,599 |         2,640 |                 0 |              0 |
+GC#        13 | NonConcurrentGC |     0 |            AllocSmall |         24,302 |         4,954 |        11,486 |           epäluku |              4 |
+GC#        14 |    BackgroundGC |     2 |            AllocLarge |         17,695 |         5,553 |         3,576 |                 0 |              0 |
+```
+- what are the result? What's LOH fragmentation and survival rate?
+  - well, for all gen2 `BackgroundGC`s the resons are `AllocLarge` fragmentation and survival rates are zero. Actually, in PerfView, you can see survival rate which is between 2-4-5, and fragmentation % which are mostly between 70-90, and rarely 20-60.
+- we know that those FullGCs are happening because of AllocLarge, which means - most probably - the LOH allocation budget has been exceeded. 
+Let's confirm that by recording dotnet-trace session and dig in into GCStats. If so, what allocation budgets are calculated for LOH?
+I checked recorded *.nettrace file and in section "Condemned reasons for GCs", the main reason for GCs is Generation Budget Exceeded. Hence, the assumption is Confirmed.
 
+### TASK 2
