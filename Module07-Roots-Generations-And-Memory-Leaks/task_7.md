@@ -10,7 +10,7 @@ TODO: try it on Parallel VM
 ### LOH profiling
 * I was not able to trigger AllocLarge GC by this: `dotnet SuperBenchmarker.dll -y 100 -n 10000000 -c 64 -u http://localhost:5000/api/loh`
 * Interesting fact that many times the `Working Set` was passed by `Allocated` and the GC was not triggered. 
-  * This strange behavior could be caused by the usage of ARM processor. Moreover, the original apps didn't support .net6 which is compatible with arm processor. Thus I forced them to be .net6 applications.
+  * This strange behavior could be caused by the usage of ARM processor. Moreover, the original apps didn't support .net5 which is compatible with arm processor. Thus I forced them to be .net6 applications.
 * this `dotnet SuperBenchmarker.dll -y 10 -n 10000000 -c 64 -u http://localhost:5000/api/loh` doesn't triggered `AllocLarge` as well.
 * Here is the report from `dotnet-gcmon`
 ```
@@ -26,7 +26,7 @@ Heap Stats as of 2023-02-26 13:38:34Z (Run 3 for gen 0):
   Handles: 15,644
   Pinned Obj Count: 0
   Last Run Stats:
-    Total Heap: 8,251,360 Bytes
+    Total Heap: 8,251,360 Bytes 
       Gen 0:               240 Bytes
       Gen 1:         3,243,832 Bytes
       Gen 2:         4,037,352 Bytes
@@ -56,3 +56,63 @@ GC#        10 | NonConcurrentGC |     2 |      35.51 |            AllocSmall |  
 ```
 * what are the result? What GC are triggered and why? What are the generation sizes in time?
   * All GCs were triggered by `AllocSmall` and on gen0, gen1, gen2.
+
+
+## on proper Windows machine
+- what are the result? What GC are triggered and why? What are the generation sizes in time?
+  - The test showed a lot of GC Gen2 which were triggered by `AllocLarge` and done by `BackgroundGC`. Rarerly, the GC Gen0 were triggered by `AllocSmall` and done by `NonConcurrentGC`.  As we can see, `BacgroundGC` for Gen2 takes signifinltly more time than for Gen0(3 times more). While Gen2 GC was triggered a lot, it is clear that the pressure was on LOH, on a table, we can see how the size of LOH flactuates drastically while gen2 size is the same and gen0 is going up.
+```
+Monitoring process with name: MemoryLeak and pid: 17056  
+| GC#     index |            type |   gen | pause (ms) |                reason | gen0 size (mb) | LOH size (mb) | peak/after | gen2 size (mb) |
+---------------------------------------------------------------------------------------------------------------------------------------------
+GC#       132 |    BackgroundGC |     2 |       5,84 |            AllocLarge |          1,712 |         5,970 |       0,00 |          6,360 |
+...
+GC#       311 | NonConcurrentGC |     0 |       1,84 |            AllocSmall |          0,006 |        12,774 |       1,39 |          6,360 |
+GC#       312 |    BackgroundGC |     2 |       6,23 |            AllocLarge |          0,643 |         2,908 |       1,74 |          6,360 |
+...
+GC#       313 |    BackgroundGC |     2 |       4,70 |            AllocLarge |          1,478 |         9,457 |       0,90 |          6,360 |
+GC#       314 |    BackgroundGC |     2 |       8,35 |            AllocLarge |          2,603 |         4,099 |       1,23 |          6,360 |
+GC#       315 |    BackgroundGC |     2 |       5,37 |            AllocLarge |          1,786 |         4,949 |       0,98 |          6,360 |
+GC#       316 |    BackgroundGC |     2 |       5,13 |            AllocLarge |          2,663 |         9,202 |       0,90 |          6,360 |
+GC#       317 |    BackgroundGC |     2 |       5,14 |            AllocLarge |          3,332 |         4,269 |       1,21 |          6,360 |
+```
+Over time, on a printed info page we can see that Gen 0 and Gen 3 changes their sizes frequently. 
+  ```
+  Heap Stats as of 2023-04-16 12:50:37Z (Run 557 for gen 2):  
+  Heaps: 8  
+  Handles: 1 064  
+  Pinned Obj Count: 0  
+  Last Run Stats:  
+    Total Heap: 12 966 584 Bytes  
+      Gen 0:         4 342 784 Bytes  
+      Gen 1:           195 416 Bytes  
+      Gen 2:         6 360 336 Bytes  
+      Gen 3:         1 036 528 Bytes  
+      Gen 4:         1 031 520 Bytes  
+
+  Heap Stats as of 2023-04-16 12:50:40Z (Run 562 for gen 2):
+  Heaps: 8
+  Handles: 1 064
+  Pinned Obj Count: 0
+  Last Run Stats:
+    Total Heap: 20 036 512 Bytes
+      Gen 0:         8 095 528 Bytes
+      Gen 1:           195 416 Bytes
+      Gen 2:         6 360 336 Bytes
+      Gen 3:         4 353 712 Bytes
+      Gen 4:         1 031 520 Bytes
+  
+  Heap Stats as of 2023-04-16 12:50:42Z (Run 567 for gen 0):
+  Heaps: 8
+  Handles: 1 073
+  Pinned Obj Count: 0
+  Last Run Stats:
+    Total Heap: 11 369 256 Bytes
+      Gen 0:               192 Bytes
+      Gen 1:           218 888 Bytes
+      Gen 2:         6 360 336 Bytes
+      Gen 3:         3 758 320 Bytes
+      Gen 4:         1 031 520 Bytes
+  
+  ```
+
