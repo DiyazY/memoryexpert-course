@@ -143,3 +143,9 @@ Let's confirm that by recording dotnet-trace session and dig in into GCStats. If
 I checked recorded *.nettrace file and in section "Condemned reasons for GCs", the main reason for GCs is Generation Budget Exceeded. Hence, the assumption is Confirmed.
 
 ### TASK 2
+- open the dump with the help of dotnet-dump analyze and look what's keeping InternalIdentifier instance(s) alive. In which generations those instance(s) live?
+  - First of all, it has 2 different instances that GC dump treats as two separate classes. Secondly, I was not able to understand from which generation.
+- also use dumpalc (use help) for looking what information you can get about the corresponding assembly context
+  - nothing. The only thing is that there are two ` WebWorkerApp.PluginAssemblyLoadContext`.
+
+  This part is well described in Solution document. Use it as reference!
